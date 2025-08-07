@@ -1,4 +1,4 @@
-# Video-Game-Sales-Analysis-Project-5
+# Sprint 5: Video-Game-Sales-Analysis-Project-5
 
 This project focuses on analyzing video game sales and user ratings across various platforms, genres, and regions. The analysis explores key insights into the popularity of different platforms and genres, and examines regional preferences in North America, Europe, and Japan.
 
